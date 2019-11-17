@@ -117,4 +117,4 @@ As a final step, I applied the 2D CFAR threshold to the Range Doppler Map. The f
    ![alt text][image12]
 
 #### Create a CFAR README File  
-Here is a README file for the project. Thanks for reading it.# SFND_Radar-Target-Generation-and-Detection
+Here is a README file for the project. Thanks for reading it.
