@@ -31,7 +31,7 @@ This project is to use frequency modulated continuous-wave (FMCW) radar and rela
 #### FMCW Waveform Design
 **Using the given system requirements, design a FMCW waveform. Find its Bandwidth (B), chirp time (Tchirp) and slope of the chirp.**   
 
-Below is Radar speicification givern by the project
+Below is Radar speicification given by the project
   
 %% Radar Specifications   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%  
@@ -117,4 +117,4 @@ As a final step, I applied the 2D CFAR threshold to the Range Doppler Map. The f
    ![alt text][image12]
 
 #### Create a CFAR README File  
-Here is a README file for the project. Thanks for reading it.
+Here is a README file for the project. Thanks for your time to read it.
